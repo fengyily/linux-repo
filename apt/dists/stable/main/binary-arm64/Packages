@@ -1,13 +1,13 @@
 Package: shield-cli
-Version: 0.3.3
+Version: 0.3.4
 Architecture: arm64
 Maintainer: fengyily <fengyily@users.noreply.github.com>
 Installed-Size: 9920
-Filename: pool/main/shield-cli_0.3.3_linux_arm64.deb
-Size: 4034930
-MD5sum: b770effbc1b5d494226e1b1181a1b829
-SHA1: 819cedbbc78f69d78915a6caae5f35eda5519cfe
-SHA256: a7655c834f078f412c2ae3ad4c7d6c0dda51d0fa8aad7f5261df0dbd48329b2b
+Filename: pool/main/shield-cli_0.3.4_linux_arm64.deb
+Size: 4034932
+MD5sum: 8f3b215688b01aa15bf8d9c5915bea90
+SHA1: e0c6df4c9cae01b4c8b2ca156031012a0bbeba02
+SHA256: 728a6a1384cef35c0c32f640b5f388a574148b23e58475e5205ac57f8c4be142
 Section: net
 Priority: optional
 Homepage: https://github.com/fengyily/shield-cli
