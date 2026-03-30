@@ -1,17 +1,16 @@
 Package: shield-cli
-Version: 0.3.8
+Version: 0.3.9
 Architecture: amd64
 Maintainer: fengyily <fengyily@users.noreply.github.com>
 Installed-Size: 10564
-Filename: pool/main/shield-cli_0.3.8_linux_amd64.deb
-Size: 4444502
-MD5sum: d65f5eacf370340e3346ebd938595ccf
-SHA1: fac8ed5df8cd7ef273c9cf44d6cc49fbaa793b48
-SHA256: 8b2d4c2ef0d7cf06881f2e197c94f56e041fb4963d3c938672c12cf41c63e799
+Filename: pool/main/shield-cli_0.3.9_linux_amd64.deb
+Size: 4432590
+MD5sum: 20c82c4a37e43af1dd530ec24981e5b7
+SHA1: e0dd9c7102ab54ab593ac6c1dbfdcc79e41ced26
+SHA256: 5f43ae32e1716e76717ded95549ce37da3231eb6c7244fc0c9abd69c883e70a9
 Section: net
 Priority: optional
 Homepage: https://github.com/fengyily/shield-cli
 Description: Shield CLI - Secure Tunnel Connector
 Architecture-Variant: amd64v1
-License: Apache-2.0
 
