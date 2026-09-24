@@ -82,3 +82,24 @@ Description: NovaWorkbench — 本地优先、AI 原生的开发者工作台。
  2. sudo nova install
  之后服务会以 nova 用户身份监听 http://<host>:9527/。
 
+Package: nova
+Architecture: amd64
+Version: 0.5.4
+Priority: optional
+Section: utils
+Maintainer: NovaWorkbench <noreply@novaworkbench.dev>
+Installed-Size: 20988
+Filename: pool/main/n/nova/binary-amd64/nova_0.5.4_amd64.deb
+Size: 8003294
+MD5sum: 78865b7770dfc17fa70f06f8c14bb6d8
+SHA1: 2097be9f2ac7818037d328627fc9766903f7fc82
+SHA256: 188781d26b0b8fd055546adf5c763a326867c6656292f6b3273aecf4d41fdb2f
+SHA512: 1e3856e5fe4cec5267b98ab215a70afca419170146fefd7911bda6d3b7cfd3e18013513aa77f25a3b03836f799b37580613ba93e76ae1dbc4ae5e725f4e8369f
+Homepage: https://github.com/novaworkbench/novaworkbench
+Description: NovaWorkbench — 本地优先、AI 原生的开发者工作台。
+ .
+ 安装后请参考 README「apt 安装」一节：
+ 1. sudo useradd --create-home --home-dir /home/nova --shell /bin/bash nova
+ 2. sudo nova install
+ 之后服务会以 nova 用户身份监听 http://<host>:9527/。
+
